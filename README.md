@@ -8,10 +8,10 @@ Software developer passionate about **web development, backend technologies and 
 
 `C#` · `.NET` · `Java` · `Spring Boot` · `Python` · `Django` · `Vue.js`
 
-### 🎵 Beyond Code
+### ✨ Beyond Code
 
-🥁 Playing drums
-
-🎧 Listening to music
-
-💻 Exploring new technologies & software development
+- 🥁 Playing drums
+- 🎧 Listening to music
+- 🎮 Playing video games · [Backloggd](https://bckl.gg/p3Kd)
+- 🎬 Watching movies · [Letterboxd](https://boxd.it/ndLSj)
+- 💻 Exploring new technologies & software development
